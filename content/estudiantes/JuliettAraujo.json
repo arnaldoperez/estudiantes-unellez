@@ -1,0 +1,29 @@
+"aboutMe":"Soy [Anniuska JUliett Araujo Montero], un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando [7mo] en [UNELLEZ]. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo [desarrollo de aplicaciones, inteligencia artificial].",
+    "softSkills":[
+        "Liderazgo",
+        "Comunicación",
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "Python",
+        "C++",
+    
+      
+    ],
+    "experience":[
+        {
+            "organization":"UNELLEZ",
+            "role": Estudiante",
+            "since":2021,
+            "description":"Estudiante de Ingenieria de Informatica, Asesora de Ventas, Asistente Dental"
+        }
+    ],
+    "projects":[
+        {
+            "title":"Bachiller- Santa Ines, Barinas"
+        }
+    ],
+    "contact":[
+        
+        {"name":"Github",
+        "url":"https://github.com/juliettaraujo",
