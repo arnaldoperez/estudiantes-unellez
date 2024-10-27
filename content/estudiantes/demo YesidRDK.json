@@ -1,0 +1,42 @@
+
+{"name":"Yesid Eliezer Pérez",
+    "aboutMe":"Soy Yesid Pérez, un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando el 8vo la UNELLEZ municipalizada. Mi afición por la informática y los sistemas  me llevaron a querer aprender poco a poco sobre ello, incluyendo Diseño gráfico, armar y reparar un hardware, modificación y programación de videojuegos, entre otros",
+    "softSkills":[
+        "Espontaneidad",
+        "Comunicación",
+        "Adaptabilidad",
+        "Responsabilidad",
+        "Improvisación",
+        "Dominio de inglés",
+    ],
+    "techSkills":[
+        "Adobe Illustrator CS6",
+        "Wondershare Filmora X",
+        "Python (básico)",
+    ],
+    "experience":[
+        {
+            "organization":"Freelancer",
+            "role":"Diseñador / Marketing digital / Editor de video",
+            "since":2021,
+            "description":"Manejo de redes sociales a nivel de marketing digital a través de representaciones publicitarias y llamativas",
+        }
+    ],
+    "projects":[
+        {
+            "title":"Ing en Informática - Municipio Bolívar",
+            "rol":"Estudiante",
+            "description":"Cursante interesado en la materia de informática en rumbo de alcanzar su título profesional.",
+        }
+    ],
+    "contact":[
+        {"name":"Linkedin",
+        "url":"https://www.linkedin.com/in/arnaldoperez/",
+        "icon":"mdiLinkedin"
+        },
+        {"name":"Github",
+        "url":"https://github.com/YesidRDK",
+        "icon":"mdiGithub"
+        }
+    ]
+}
