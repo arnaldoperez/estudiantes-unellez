@@ -1,0 +1,39 @@
+
+{
+    "aboutMe":"Soy [Jorge Paredes], un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando [7mo semestre] en [UNELLEZ]. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo [Desarrollo web, electronica, reparacion de equipos informaticos].",
+    "softSkills":[
+        
+        "Comunicación",
+        "Adaptabilidad",
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "Python",
+        "c++",
+    ],
+    "experience":[
+        {
+            "organization":"FUNDAMUSICAL",
+            "role":"Profesor",
+            "since":2018,
+            "description":"Formador Integral cademico musical de la catedra de lenguaje musical y corno frances"
+        }
+    ],
+    "projects":[
+        {
+            "title":"Ing en Informática - Municipio Bolívar",
+            "rol":"Promotor",
+            "description":"Como profesor y habitante de la ciudad de Barinitas impulse la oferta de la carrera de Ingeniería en informática en la extension del Municipio Bolívar, para los jovenes de esta localidad."
+        }
+    ],
+    "contact":[
+        {"name":"Linkedin",
+        "url":"https://www.linkedin.com/in/arnaldoperez/",
+        "icon":"mdiLinkedin"
+        },
+        {"name":"Github",
+        "url":"https://github.com/arnaldoperez",
+        "icon":"mdiGithub"
+        }
+    ]
+}
