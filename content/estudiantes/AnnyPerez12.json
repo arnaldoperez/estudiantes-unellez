@@ -1,0 +1,37 @@
+{
+    "aboutMe":"Soy [Anny Perez], una estudiante apasionada de la Ingeniería en Informática. Actualmente me encuentro cursando [7mo] en [UNELLEZ]. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo [diseño grafico, c++].",
+    "softSkills":[
+        "Liderazgo",
+        "Respetuosa"
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "Python",
+        "c++",
+        
+    ],
+    "experience":[
+        {
+            "organization":"UNELLEZ",
+            "role":"Estudiante",
+            "since":2021,
+            "description":"Estudiante de Ing en Informatica"
+        }
+    ],
+    "projects":[
+        {
+            "title":"Bachiller en Ciencias",
+           
+        }
+    ],
+    "contact":[
+        {"name":"Linkedin",
+        "url":"https://www.linkedin.com/in/arnaldoperez/",
+        "icon":"mdiLinkedin"
+        },
+        {"name":"Github",
+        "url":"https://github.com/arnaldoperez",
+        "icon":"mdiGithub"
+        }
+    ]
+}
