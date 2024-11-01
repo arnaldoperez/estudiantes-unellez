@@ -1,0 +1,44 @@
+
+{
+    "aboutMe":"Soy Johan Viloria, un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando 7mo Semestre en la Universidad Nacional Experimental de los Llanos Ezequiel Zamora. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo Ciberseguridad, Desarrollo de Inteligencia Artificial, Creacion de Juegos y Desarrollo Web",
+    "softSkills":[
+        "Liderazgo",
+        "Dominio de Ingles",
+        "Comunicador",
+        "Escritor",
+        "Adaptable",
+        "Editor de Videos",
+        "Editor de Audio",
+        "Reparación de Computadoras",
+        "Reparacion de Celulares"
+    ],
+    "techSkills":[
+        "C++",
+        "Python",
+        "GML",
+        "Audacity",
+        "Obsidian",
+        "Wondershare Filmora X",
+    ],
+    "experience":[
+        {
+            "organization":"Freelancer",
+            "role":"Escritor / Traductor / Editor de Videos",
+            "since":2024,
+            "description":"Manejo de Ingles y Traduccion de Textos, asi como Editor Novato de Videos"
+        }
+    ],
+    "projects":[
+        {
+            "title":"Ing en Informática - Municipio Bolívar",
+            "rol":"Promotor",
+            "description":"Como profesor y habitante de la ciudad de Barinitas impulse la oferta de la carrera de Ingeniería en informática en la extension del Municipio Bolívar, para los jovenes de esta localidad."
+        }
+    ],
+    "contact":[
+        {"name":"Github",
+        "url":"https://github.com/JAVR014",
+        "icon":"mdiGithub"
+        }
+    ]
+}
