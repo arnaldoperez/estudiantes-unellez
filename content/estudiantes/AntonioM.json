@@ -1,0 +1,41 @@
+
+{
+    "name":"Antonio Márquez",
+    "aboutMe":"Soy [Antonio], un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando [Octavo semestre] en [Unellez]. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo, desarrollo web, inteligencia artificial, ciberseguridad.",
+    "softSkills":[
+        "Liderazgo",
+        "Comunicación",
+        "Adaptabilidad",
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "Python",
+        "Javascript"
+        "C++"
+    ],
+    "experience":[
+        {
+            "organization":"FREELANCER/CORPOELEC",
+            "role":"Call center supervisor/Operador de subestaciones",
+            "since":2022,
+            "description":"Operador de subtestacion en empresa nacional de electricidad"
+        }
+    ],
+    "projects":[
+        {
+            "title":"Ing en Informática - Municipio Bolívar",
+            "rol":"Estudiante",
+            "description":"Estudiante interesado en alcanzar su titulo universitario"
+        }
+    ],
+    "contact":[
+        {"name":"Linkedin",
+        "url":"https://www.linkedin.com/in/arnaldoperez/",
+        "icon":"mdiLinkedin"
+        },
+        {"name":"Github",
+        "url":"https://github.com/arnaldoperez",
+        "icon":"mdiGithub"
+        }
+    ]
+}
