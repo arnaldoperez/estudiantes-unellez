@@ -1,0 +1,35 @@
+
+{
+    "name":"Dailyn Berrocal",
+    "aboutMe":"Soy  Dailyn, un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando 8vo semestre en la Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo desarrollo web.",
+    "softSkills":[
+        "Liderazgo",
+        "Comunicación",
+        "Adaptabilidad",
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "C++",
+    ],
+    "experience":[
+        {
+            "organization":"TECNO-VIDRIOS",
+            "role":"Atencion al cliente",
+            "since":2017,
+            "description":"Atender el negocio"
+        }
+    ],
+    "projects":[
+        {
+            "title":"Ing en Informática - Municipio Bolívar",
+            "rol":"Promotor",
+            "description":"Como profesor y habitante de la ciudad de Barinitas impulse la oferta de la carrera de Ingeniería en informática en la extension del Municipio Bolívar, para los jovenes de esta localidad."
+        }
+    ],
+    "contact":[
+        {"name":"Github",
+        "url":"https://github.com/DailynAB",
+        "icon":"mdiGithub"
+        }
+    ]
+}
